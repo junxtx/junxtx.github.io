@@ -6,16 +6,16 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            cellier
+title:            军行天下
 tagline:          ''
-description:      '『he looks like a dog so』 『because he is a PM』'
-url:              http://cellier.me
+description:      '进击的前端'
+url:              http://junxtx.github.io/
 
 author:
-  name:           'cellier'
-  email:          cellier@mail.com
+  name:           '军行天下'
+  email:          junxtx@mail.com
 
-paginate:      5
+paginate:      6
 
 # Custom vars
 version:          0.0.3
